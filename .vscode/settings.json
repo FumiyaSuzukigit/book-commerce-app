@@ -1,0 +1,6 @@
+{
+  "cSpell.ignoreWords": [
+    "NEXTAUTH"
+    // 他の除外したい単語を追加
+  ]
+}
