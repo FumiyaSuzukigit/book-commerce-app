@@ -31,7 +31,7 @@ const Header = async () => {
 
           {user ? (
             <Link
-              href={"api/auth/signout"}
+              href={"/api/auth/signout"}
               className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             >
               ログアウト
